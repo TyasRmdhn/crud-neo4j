@@ -1,0 +1,15 @@
+{
+  "name": "coba-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": ["create.js","read.js","update.js","delete.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^5.12.0"
+  }
+}
